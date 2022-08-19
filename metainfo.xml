@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="B81B29D0-9974-4DA8-A1D2-6B0D37E43E1C" version="0">
+	<info>
+		<title>2022-08-19 Malola Education Online Advanced Exam paper-1</title>
+		<description/>
+	</info>
+	<files index="id32" thumbnail="id28" totalSize="3838597">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-058927f8d51ca0ea1f71e6cb2ff1db770b5c7faa.PNG</file>
+		<file id="id12">data/images/img-184bd22517b1a57753a9263f573b85e5790b66df.PNG</file>
+		<file id="id13">data/images/img-1e3a1d450fc05757de7934ec7f49382c27ada991.PNG</file>
+		<file id="id14">data/images/img-2674c0aad554959c1653cc67af05648dcf43b12f.PNG</file>
+		<file id="id15">data/images/img-4a9313a0b9fdd40e63f045bdded65e74a29847f3.PNG</file>
+		<file id="id16">data/images/img-4bf1eb71d60c69c67751bad5dd37a20e0e527684.PNG</file>
+		<file id="id17">data/images/img-77bef060dd25ddd5cb59742664f7a3f37bf252eb.PNG</file>
+		<file id="id18">data/images/img-810f692904cb3ee57728706ad7355f05c70c92a9.PNG</file>
+		<file id="id19">data/images/img-846b7e64e300e0113e92d3bb47d35913c29b7a8f.PNG</file>
+		<file id="id20">data/images/img-abd33d4edacadf5ea41033f5d45714b7e6095b8c.PNG</file>
+		<file id="id21">data/images/img-b0a162b0cc1b897d4f7c02ecacbf357e7c566cb5.PNG</file>
+		<file id="id22">data/images/img-cb8831172a44cc906ef02c53efe2075897f5c756.PNG</file>
+		<file id="id23">data/images/img-d07af2ab3352f78e01b328bfcfa0bf698a0b9cd2.PNG</file>
+		<file id="id24">data/images/img-e5eaf13864db511b85fbcdf4112d3883e5580f44.PNG</file>
+		<file id="id25">data/images/img-f8337e99cbb9ac761da4045b9ff0bd923000ca2a.PNG</file>
+		<file id="id26">data/ismplayer/app_store2x.png</file>
+		<file id="id27">data/ismplayer/play.svg</file>
+		<file id="id28">data/ismplayer/preview.png</file>
+		<file id="id29">data/ismplayer/style.css</file>
+		<file id="id30">data/ismplayer/style_mini.css</file>
+		<file id="id31">data/player.js</file>
+		<file id="id32">index.html</file>
+		<file id="id33">ismplayer.html</file>
+		<file id="id34">preview.png</file>
+	</files>
+</presentation>
+
